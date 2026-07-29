@@ -124,6 +124,7 @@ Once the program starts, you will be prompted to choose between **Manual Mode** 
 The game alternates turns between the player and the computer until one of them reaches **100 points**. At the end of each game, you will have the option to start a new game or exit the program.
 
 <br>
+<br>
 
 Was used in this project:
 
