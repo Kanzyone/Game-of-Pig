@@ -52,3 +52,41 @@ The dice rolling mechanism was implemented using Python's built-in **random** mo
 During development, I encountered an issue where the player's turn sometimes failed to exit correctly, causing the game to remain inside the turn loop. This problem was solved by restructuring the function and using `return` statements to clearly terminate the player's turn whenever necessary.
 
 This stage reinforced the importance of function design and proper control flow.
+
+<br>
+
+## Computer Logic and Testing
+
+Once the player mechanics were complete, I developed the computer opponent.
+
+The computer follows a simple strategy by continuing to roll until it earns approximately **20 points** during a turn or until stopping would allow it to win the game. Although intentionally simple, this strategy creates a balanced opponent while keeping the program readable.
+
+Testing revealed several logical issues, particularly involving score updates and turn transitions. These were resolved by carefully tracing returned values, verifying score calculations, and ensuring that turns always alternate in the correct order.
+
+Repeated testing played an important role in improving the reliability of the final program.
+
+<br>
+
+## Final Improvements
+
+After the core gameplay was complete, several quality-of-life improvements were added to make the game more enjoyable and easier to use.
+
+The final version includes:
+
+- Manual and automatic gameplay modes
+- Input validation
+- Replay functionality
+- Improved console formatting
+- A refined computer strategy
+
+These additions were made after the main functionality was complete, demonstrating the importance of refining software beyond simply making it work
+
+<br>
+
+## What I Learned
+
+This project significantly improved my understanding of the complete software development process.
+
+Throughout development, I practiced breaking complex problems into smaller tasks, designing reusable functions, debugging logical errors, validating user input, and improving program organization.
+
+More importantly, I learned that writing software is an iterative process. Careful planning, continuous testing, and gradual improvements are just as important as writing the initial code.
