@@ -1,4 +1,4 @@
-# Game-of-Pig
+# Game-of-Pig ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Completed-success) ![Course](https://img.shields.io/badge/ICS3U-Project-orange)
 
 This project is a Python implementation of the classic **Game of Pig**, created as part of the **ICS3U Computer Science Unit 2 Project**. The objective of this assignment was not only to create a fully functional game, but also to demonstrate an understanding of modular programming, problem solving, functions, loops, conditional statements, and the software development process.
 
