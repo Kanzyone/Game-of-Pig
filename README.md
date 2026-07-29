@@ -6,6 +6,17 @@ The game allows a human player to compete against a computer-controlled opponent
 
 <br>
 
+<p align="center">
+  <img
+    width="450"
+    height="250"
+    alt="Game of Pig Source Code"
+    src="https://github.com/user-attachments/assets/80a0a2a8-d1f6-477b-a97f-c0f2a401d7de"
+  />
+</p>
+
+<br>
+
 While developing this project, I focused on writing code that is easy to understand, reusable and organized into separate functions. Rather than placing all of the logic inside a single block of code, every major part of the game was divided into its own function. This approach makes the program easier to read, debug and maintain.
 
 The project also demonstrates the software development cycle by following the stages of planning, implementation, testing, debugging and final improvements.
