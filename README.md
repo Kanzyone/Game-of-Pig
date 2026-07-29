@@ -101,7 +101,7 @@ To run this project on your local machine, you will need **Python 3** installed.
 Begin by cloning the repository to your computer using the following command:
 
 ```bash
-git clone https://github.com/yourusername/Game-of-Pig.git
+git clone https://github.com/Kanzyone/Game-of-Pig.git
 ```
 
 Navigate into the project directory:
