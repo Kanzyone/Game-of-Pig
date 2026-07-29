@@ -126,4 +126,5 @@ The game alternates turns between the player and the computer until one of them 
 <br>
 
 Was used in this project:
-Python Visual Studio Code
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
