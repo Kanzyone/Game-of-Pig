@@ -5,7 +5,6 @@ This project is a Python implementation of the classic **Game of Pig**, created 
 The game allows a human player to compete against a computer-controlled opponent. During each turn, players roll a six-sided die to accumulate points. Choosing to continue rolling increases the potential score for the turn, but rolling a **1** immediately ends the turn and all points earned during that round are lost. The first player to reach **100 points** wins the game.
 
 <br>
-<br>
 
 While developing this project, I focused on writing code that is easy to understand, reusable and organized into separate functions. Rather than placing all of the logic inside a single block of code, every major part of the game was divided into its own function. This approach makes the program easier to read, debug and maintain.
 
