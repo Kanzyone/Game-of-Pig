@@ -93,8 +93,6 @@ These additions were made after the main functionality was complete, demonstrati
 
 <br>
 
-## What I Learned
-
 This project significantly improved my understanding of the complete software development process.
 
 Throughout development, I practiced breaking complex problems into smaller tasks, designing reusable functions, debugging logical errors, validating user input, and improving program organization.
