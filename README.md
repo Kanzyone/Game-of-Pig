@@ -1,8 +1,9 @@
 # Game-of-Pig ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Completed-success) ![Course](https://img.shields.io/badge/ICS3U-Project-orange)
 
-This project is a Python implementation of the classic **Game of Pig**, created as part of the **ICS3U Computer Science Unit 2 Project**. The objective of this assignment was not only to create a fully functional game, but also to demonstrate an understanding of modular programming, problem solving, functions, loops, conditional statements, and the software development process.
+This project is a Python version of the classic Game of Pig, created for my ICS3U Unit 2 Project. The goal was to practice programming concepts like functions, loops, conditionals and problem solving.
 
-The game allows a human player to compete against a computer-controlled opponent. During each turn, players roll a six-sided die to accumulate points. Choosing to continue rolling increases the potential score for the turn, but rolling a **1** immediately ends the turn and all points earned during that round are lost. The first player to reach **100 points** wins the game.
+The game lets a player compete against the computer. Players roll a die to earn points, but rolling a 1 makes them lose the points from that turn. The first player to reach 100 points wins.
+
 
 <br>
 
@@ -17,9 +18,9 @@ The game allows a human player to compete against a computer-controlled opponent
 
 <br>
 
-While developing this project, I focused on writing code that is easy to understand, reusable and organized into separate functions. Rather than placing all of the logic inside a single block of code, every major part of the game was divided into its own function. This approach makes the program easier to read, debug and maintain.
+While working on this project, I tried to keep my code simple, organized and easy to understand. I used separate functions for different parts of the game, which made the program easier to test and fix.
 
-The project also demonstrates the software development cycle by following the stages of planning, implementation, testing, debugging and final improvements.
+I also followed the basic software development process by planning, coding, testing, debugging, and improving the project.
 
 <br>
 
